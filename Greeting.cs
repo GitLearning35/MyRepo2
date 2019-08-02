@@ -8,4 +8,8 @@ return "Welcome ";
   {
     return "sat shri kaal"
   }
+  public string Greeting2()
+  {
+    return "ram ram"
+  }
 }
